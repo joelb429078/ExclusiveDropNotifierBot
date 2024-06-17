@@ -80,7 +80,7 @@ This project is a bot designed to purchase high-end releases from popular sites 
     Proxies: Use a list of proxies to avoid IP bans and enhance scraping efficiency.
     Keywords: Set keywords to filter specific products you are interested in.
 
-###Example .env File
+### Example .env File
 
 USERNAME=your_discord_username
 AVATAR_URL=your_avatar_url
