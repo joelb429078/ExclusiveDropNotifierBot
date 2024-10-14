@@ -45,7 +45,7 @@ This project is a bot designed to purchase high-end releases from popular sites 
    ```
 
 
-###Set up your environment variables in a .env file:
+## Set up your environment variables in a .env file:
 
 **env**
 
